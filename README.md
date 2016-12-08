@@ -5,6 +5,11 @@ This repo computes interesting statistics--including historical average returns,
 
 In addition, a modest GARCH model is utilized to estimate historical daily volatility for two of the 10 ETFs, namely the funds that represent the financial and energy sectors. These two funds were selected for further analysis because of recent market events.
 
-Below are the main tables and plots from the script. The full version with additional notes is also provided as part of this repo.
+Below are the main plots from the script. Additional tables can be found in the full version of the code which is also provided as part of this repo.
 
+
+![test](https://github.com/jtryker/SPDR_ETFs_stats.GARCH/blob/master/CML.png)
+
+
+![test](https://github.com/jtryker/SPDR_ETFs_stats.GARCH/blob/master/GARCH.png)
 
